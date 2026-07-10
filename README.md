@@ -25,7 +25,10 @@ Clear AI meeting notes. "Jasno" means "clear" in Croatian — and that's exactly
 #### 🎰 [ApeIn](https://apein.bet)
 Crypto-native sports and esports betting platform on ApeChain. Uses prediction market data for odds, with open liquidity pools so anyone can participate as a liquidity provider and share in the profits.
 
-#### 🏎️ [M3](https://auctions.myinvestment.app)
+#### 🌐 [M3 Network](https://m3network.io)
+A Web3 service provider discovery platform connecting blockchain founders with vetted specialists — VCs, market makers, auditors, launchpads, and more. Every provider is verified, with multi-factor reviews and AI-powered matching. No pay-to-rank, just quality.
+
+#### 🏎️ [CarVerdict](https://auctions.myinvestment.app)
 Car buying intelligence. Paste any vehicle listing and get an instant Buy, Wait, or Avoid verdict based on value retention, reliability, running costs, and whether the price is fair right now. Browse upcoming Pickles and Manheim auctions with transparent all-in costs.
 
 #### ⛓️ [TippingChain](https://tippingchain.com)
