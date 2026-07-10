@@ -25,8 +25,8 @@ Clear AI meeting notes. "Jasno" means "clear" in Croatian — and that's exactly
 #### 🎰 [ApeIn](https://apein.bet)
 Crypto-native sports and esports betting platform on ApeChain. Uses prediction market data for odds, with open liquidity pools so anyone can participate as a liquidity provider and share in the profits.
 
-#### 🎬 [Creator Content](https://creatorcontent.app)
-Tools for content creators to level up their workflow.
+#### 🏎️ [M3](https://auctions.myinvestment.app)
+Car buying intelligence. Paste any vehicle listing and get an instant Buy, Wait, or Avoid verdict based on value retention, reliability, running costs, and whether the price is fair right now. Browse upcoming Pickles and Manheim auctions with transparent all-in costs.
 
 #### ⛓️ [TippingChain](https://tippingchain.com)
 Crypto tipping for streamers and content creators. Accept tips from any chain — Ethereum, Base, Arbitrum, Optimism, Polygon — all settling on ApeChain. Automatic splits between platform, business, and creator. Self-service registration.
