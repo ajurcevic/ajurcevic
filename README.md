@@ -19,9 +19,6 @@ Personal finance and tax optimisation tool built for Australians. Cash flow trac
 #### 🏋️ [MyBodyFlow](https://mybodyflow.app)
 Health and body metrics tracking. Monitor your health data, optimise performance, and keep tabs on what matters. Tarcking Micro and Macro levels with Fasting. Integration with Whoop device data - My Personal Health tracker.
 
-#### 📝 [Jasno](https://jasno.app)
-Clear AI meeting notes. "Jasno" means "clear" in Croatian — and that's exactly what it does. Takes your messy meeting recordings and turns them into clean, actionable summaries.
-
 #### 🎰 [ApeIn](https://apein.bet)
 Crypto-native sports and esports betting platform on ApeChain. Uses prediction market data for odds, with open liquidity pools so anyone can participate as a liquidity provider and share in the profits.
 
